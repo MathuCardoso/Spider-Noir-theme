@@ -2,7 +2,7 @@
 
 A dark VS Code theme built around deep black, crimson red, muted rose, warm salmon and blue-gray accents.
 
-![Spider Noir Darker preview](images/preview.png)
+![Spider Noir Darker preview](https://github.com/MathuCardoso/Spider-Noir-theme/tree/main/images/preview.png)
 
 ## Highlights
 
