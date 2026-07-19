@@ -1,0 +1,44 @@
+{
+    "name": "spider-noir-darker-theme",
+    "displayName": "Spider Noir Darker Theme",
+    "description": "A deep black, crimson and blue-gray VS Code color theme",
+    "version": "0.1.0",
+    "publisher": "matheus",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "engines": {
+        "vscode": "^1.85.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "theme",
+        "dark theme",
+        "black",
+        "red",
+        "crimson",
+        "spider",
+        "noir"
+    ],
+    "galleryBanner": {
+        "color": "#050608",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Spider Noir Darker",
+                "uiTheme": "vs-dark",
+                "path": "./themes/spider-noir-darker-color-theme.json"
+            }
+        ]
+    },
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "devDependencies": {
+        "@vscode/vsce": "^3.6.0"
+    }
+}
