@@ -7,11 +7,11 @@
     "bugs": {
         "url": "https://github.com/MathuCardoso/Spider-Noir-theme/issues"
     },
-    "name": "spider-noir-darker-theme",
+    "name": "spider-noir-theme",
     "displayName": "Spider Noir Darker Theme",
     "description": "A deep black, crimson and blue-gray VS Code color theme",
     "version": "0.1.0",
-    "publisher": "matheus",
+    "publisher": "MatheusCardoso'",
     "license": "MIT",
     "icon": "images/icon.png",
     "engines": {
